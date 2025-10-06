@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyCvDI5eqVAp_dd-g27epu_qpIfp6tdkrLw",
+  authDomain: "roblox2015-2c465.firebaseapp.com",
+  projectId: "roblox2015-2c465",
+  storageBucket: "roblox2015-2c465.firebasestorage.app",
+  messagingSenderId: "470879880059",
+  appId: "1:470879880059:web:b686825b83157ecfd133de",
+  measurementId: "G-93LDFMKMSJ"
 };
 
 const app = initializeApp(firebaseConfig);
